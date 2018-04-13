@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 the format is so bothering
 and now i am testing something new
 well, it's too late and i have to get back.
+=======
+the format is so bothering
+>>>>>>> parent of 70fd030... add one new line
